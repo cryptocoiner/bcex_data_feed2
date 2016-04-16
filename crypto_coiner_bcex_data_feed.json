@@ -1,0 +1,20 @@
+{
+    "custodians" : [
+    ],
+    "parkrates" : [
+    ],
+    "motions" : [
+    ],
+    "fees" : {
+        "8" : 0.01,
+        "C" : 0.01
+    },
+    "reputations" : [
+    ],
+    "signerreward" : {
+        "count" : null,
+        "amount" : null
+    },
+    "assets" : [
+    ]
+}
